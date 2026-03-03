@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👨‍💻 Julio César
 
-<!--
-**JulioMelo09/juliomelo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas no COTIL (Colégio Técnico de Limeira - UNICAMP)  
+💻 Foco em Desenvolvimento Back-End  
+🚀 Em busca de oportunidade de estágio na área de TI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou estudante técnico em Desenvolvimento de Sistemas, com foco em Back-End e forte interesse em lógica de programação, organização de código e construção de sistemas eficientes.
+
+Tenho facilidade para aprender novas tecnologias, gosto de desafios e busco constantemente evoluir minhas habilidades técnicas e profissionais.
+
+---
+
+## 🎓 Formação
+
+📚 Técnico em Desenvolvimento de Sistemas (Integrado ao Ensino Médio)  
+🏫 COTIL - Colégio Técnico de Limeira (UNICAMP)  
+📅 Previsão de conclusão: ______
+
+---
+
+## 💻 Competências Técnicas
+
+### 🔹 Back-End
+- Java  
+- Programação Orientada a Objetos (POO)  
+- Lógica de Programação  
+
+### 🔹 Front-End
+- HTML  
+- CSS  
+- JavaScript  
+
+### 🔹 Conceitos
+- Estrutura de Dados (nível básico/intermediário)  
+- Organização e padronização de código  
+- Versionamento com Git  
+
+---
+
+## 📌 Projetos
+
+### 🔹 Nome do Projeto
+Breve descrição do projeto, qual problema ele resolve e quais tecnologias foram utilizadas.
+
+### 🔹 Nome do Projeto
+Descrição objetiva destacando sua participação e o que foi desenvolvido.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como desenvolvedor Back-End, iniciando como estagiário ou desenvolvedor júnior, aplicando meus conhecimentos, adquirindo experiência prática e contribuindo para o crescimento da equipe e da empresa.
+
+---
+
+## 📫 Contato
+
+📧 Email: seuemail@email.com  
+💼 LinkedIn: https://www.linkedin.com/in/seuusuario  
+🌐 GitHub: https://github.com/seuusuario
