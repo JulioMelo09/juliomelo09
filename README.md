@@ -41,16 +41,6 @@ Tenho facilidade para aprender novas tecnologias, gosto de desafios e busco cons
 
 ---
 
-## 📌 Projetos
-
-### 🔹 Nome do Projeto
-Breve descrição do projeto, qual problema ele resolve e quais tecnologias foram utilizadas.
-
-### 🔹 Nome do Projeto
-Descrição objetiva destacando sua participação e o que foi desenvolvido.
-
----
-
 ## 🎯 Objetivo Profissional
 
 Atuar como desenvolvedor Back-End, iniciando como estagiário ou desenvolvedor júnior, aplicando meus conhecimentos, adquirindo experiência prática e contribuindo para o crescimento da equipe e da empresa.
