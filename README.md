@@ -52,6 +52,3 @@ Atuar como desenvolvedor Back-End, iniciando como estagiário ou desenvolvedor j
 📧 Email: Juliocesardemelo2748@gmail.com 
 
 
-
-💼 LinkedIn: https://www.linkedin.com/in/seuusuario  
-🌐 GitHub: https://github.com/seuusuario
